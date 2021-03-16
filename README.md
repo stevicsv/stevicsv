@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Veljko from 🇷🇸
+- 👀 I’m interested in design & web development
+- 🌱 I’m currently learning about TDD
+- 💞️ I’m looking to collaborate on Laravel & Vue related projects
+- 📫 Reach me at stevic.sv@gmail.com 
